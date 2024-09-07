@@ -15,7 +15,7 @@ The Music Store Analysis project dives deep into the store's database, analyzing
 
 - **Top Genres**: Rock and Alternative & Punk emerged as the top genres, driving significant revenue.
 - **Best-Selling Artists**: Artists like AC/DC and Aerosmith consistently topped sales charts.
-- **Customer Demographics**: Majority of the customers are in the 20-30 age group, with a strong preference for digital purchases.
+- **Most Invoices**: The top three countries with the most invoices are the USA, Canada, and Brazil. 
 - **Revenue Boost**: Sales promotions during the holiday season resulted in a 15% increase in revenue.
 
 ## 📂 Files
